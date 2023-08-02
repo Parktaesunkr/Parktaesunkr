@@ -11,7 +11,10 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<br>
+![Badge](http://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Badge](http://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
+![Badge](http://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Parktaesunkr's github stats](https://github-readme-stats.vercel.app/api?username=Parktaesunkr&show_icons=true)
