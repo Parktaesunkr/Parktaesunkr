@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=My%20Data%20and%20Source&f)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&text=My%20Data%20and%20Source&f)
 
 <br><br>
 
